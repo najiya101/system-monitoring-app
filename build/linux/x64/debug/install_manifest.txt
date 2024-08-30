@@ -1,0 +1,15 @@
+/home/najiya/system_monitoring_app/build/linux/x64/debug/bundle/system_monitoring_app
+/home/najiya/system_monitoring_app/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/najiya/system_monitoring_app/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/najiya/system_monitoring_app/build/linux/x64/debug/bundle/data/flutter_assets/assets/logo.png
+/home/najiya/system_monitoring_app/build/linux/x64/debug/bundle/data/flutter_assets/assets/2598572%20(1).jpg
+/home/najiya/system_monitoring_app/build/linux/x64/debug/bundle/data/flutter_assets/assets/url.txt
+/home/najiya/system_monitoring_app/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/najiya/system_monitoring_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/najiya/system_monitoring_app/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/najiya/system_monitoring_app/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/najiya/system_monitoring_app/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/najiya/system_monitoring_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/najiya/system_monitoring_app/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/najiya/system_monitoring_app/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/najiya/system_monitoring_app/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
