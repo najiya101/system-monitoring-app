@@ -66,5 +66,12 @@ Example API Response:
 ## Screenshots
 
 <div>
-   
+  <img src="https://github.com/user-attachments/assets/19930f81-6137-4a7b-a7bb-2fa8c7e0cc79" alt="home" height="500"/>
+  <img src="https://github.com/user-attachments/assets/f6072b2c-c030-4b0e-9cd5-36176b826210" alt="cpupage" height="500"/>
+  <img src="https://github.com/user-attachments/assets/697e7d0a-3486-4e2d-9a86-bb9ae73689ba" alt="memorypage" height="500"/>
+  <img src="https://github.com/user-attachments/assets/bf7633db-4ee5-4ae5-a0ab-8f5ba7e4ab1f" alt="diskpage" height="500"/>
+  <img src="https://github.com/user-attachments/assets/882be0e1-4344-4a00-806d-6b9913c2fd1d" alt="menu" height="500"/>
+  <img src="https://github.com/user-attachments/assets/ac3a74be-d896-4ff3-b48c-22b587f28037" alt="settings" height="500"/>
+  <img src="https://github.com/user-attachments/assets/4ee09a24-5a62-487c-8126-b5e6074e65b4" alt="updated" height="500"/>
+
 </div>
