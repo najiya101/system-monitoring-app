@@ -1,0 +1,1 @@
+https://flysoft.dev:9500/intern-project/get-system-metrics

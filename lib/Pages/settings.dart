@@ -20,12 +20,12 @@ class _SettingsPageState extends State<SettingsPage> {
 
   Future<void> _initializeFile() async {
     final directory = await getApplicationDocumentsDirectory();
-    _filePath = '${directory.path}/url.txt';
+    _filePath = '${directory.path}/enter the name of the url text file';
 
     final file = File(_filePath);
     if (!await file.exists()) {
       //if the file doesn't exist thencopy it from assets
-      final data = await rootBundle.loadString('assets/url.txt');
+      final data = await rootBundle.loadString('enter the relative path of the url text file here');
       await file.writeAsString(data);
     }
     //read the content and update it in the TextField
